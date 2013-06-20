@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Google App Engine SDK">
+    <CLASSES>
+      <root url="file://C:/appengine" />
+      <root url="file://C:/appengine/lib/antlr3" />
+      <root url="file://C:/appengine/lib/argparse" />
+      <root url="file://C:/appengine/lib/cacerts" />
+      <root url="file://C:/appengine/lib/cherrypy" />
+      <root url="file://C:/appengine/lib/concurrent" />
+      <root url="file://C:/appengine/lib/enum" />
+      <root url="file://C:/appengine/lib/fancy_urllib" />
+      <root url="file://C:/appengine/lib/google-api-python-client" />
+      <root url="file://C:/appengine/lib/graphy" />
+      <root url="file://C:/appengine/lib/grizzled" />
+      <root url="file://C:/appengine/lib/httplib2" />
+      <root url="file://C:/appengine/lib/ipaddr" />
+      <root url="file://C:/appengine/lib/jinja2-2.6" />
+      <root url="file://C:/appengine/lib/markupsafe-0.15" />
+      <root url="file://C:/appengine/lib/mox" />
+      <root url="file://C:/appengine/lib/oauth2" />
+      <root url="file://C:/appengine/lib/prettytable" />
+      <root url="file://C:/appengine/lib/protorpc" />
+      <root url="file://C:/appengine/lib/PyAMF-0.6.1" />
+      <root url="file://C:/appengine/lib/python-gflags" />
+      <root url="file://C:/appengine/lib/setuptools-0.6c11" />
+      <root url="file://C:/appengine/lib/simplejson" />
+      <root url="file://C:/appengine/lib/sqlcmd" />
+      <root url="file://C:/appengine/lib/django-1.5" />
+      <root url="file://C:/appengine/lib/webapp2-2.5.2" />
+      <root url="file://C:/appengine/lib/webob-1.2.3" />
+      <root url="file://C:/appengine/lib/yaml-3.10" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

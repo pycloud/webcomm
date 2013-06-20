@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="/static/proto/js/Long.js"></script>
+    <script src="/static/proto/js/ByteBuffer.js"></script>
+    <script src="/static/proto/js/ProtoBuf.js"></script>
+
+    <script type="text/javascript">
+    function protojsTest(){
+    	var ProtoBuf = dcodeIO.ProtoBuf;
+        var builder = ProtoBuf.protoFromFile("/static/proto/dto/dto.proto");
+        alert(builder);
+        var CmdGetInfoInfomations=builder.build("CmdGetInfoInfomations");
+        var infos=new CmdGetInfoInfomations();
+        infos.activity_id=198765;
+        alert(infos.activity_id);
+    }
+    </script>
+</head>
+<body>
+    <input type="button" value="Test" onclick="protojsTest();">
+</body>
+</html>
